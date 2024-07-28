@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.27102945.css",
-    "main.js": "/portfolio/static/js/main.a7f0f4f2.js",
-    "static/media/ACYSupplements.png": "/portfolio/static/media/ACYSupplements.ae394edab75e11a637f8.png",
-    "static/media/ChessGame.png": "/portfolio/static/media/ChessGame.bc9162e01ba87d877f71.png",
-    "static/media/JSSEXCELLENCE.png": "/portfolio/static/media/JSSEXCELLENCE.8ba051049aea60a42199.png",
-    "static/media/ScreenRecorder.png": "/portfolio/static/media/ScreenRecorder.b7314a5eabc91ad160af.png",
-    "static/media/myimage.png": "/portfolio/static/media/myimage.8ac08a029e7d29431198.png",
-    "static/media/TherapyCabinet.png": "/portfolio/static/media/TherapyCabinet.921f3a0922d29c5f4f3c.png",
-    "static/media/top.png": "/portfolio/static/media/top.4e968ec2236ce87fb970.png",
-    "static/media/right.png": "/portfolio/static/media/right.ae095ab8927808e6fe9f.png",
-    "static/media/SkiRental.png": "/portfolio/static/media/SkiRental.e39e3c2f276980160e06.png",
-    "index.html": "/portfolio/index.html",
-    "main.27102945.css.map": "/portfolio/static/css/main.27102945.css.map",
-    "main.a7f0f4f2.js.map": "/portfolio/static/js/main.a7f0f4f2.js.map"
+    "main.css": "/Personal-Portfolio/static/css/main.27102945.css",
+    "main.js": "/Personal-Portfolio/static/js/main.4c30e789.js",
+    "static/media/ACYSupplements.png": "/Personal-Portfolio/static/media/ACYSupplements.ae394edab75e11a637f8.png",
+    "static/media/ChessGame.png": "/Personal-Portfolio/static/media/ChessGame.bc9162e01ba87d877f71.png",
+    "static/media/JSSEXCELLENCE.png": "/Personal-Portfolio/static/media/JSSEXCELLENCE.8ba051049aea60a42199.png",
+    "static/media/ScreenRecorder.png": "/Personal-Portfolio/static/media/ScreenRecorder.b7314a5eabc91ad160af.png",
+    "static/media/myimage.png": "/Personal-Portfolio/static/media/myimage.8ac08a029e7d29431198.png",
+    "static/media/TherapyCabinet.png": "/Personal-Portfolio/static/media/TherapyCabinet.921f3a0922d29c5f4f3c.png",
+    "static/media/top.png": "/Personal-Portfolio/static/media/top.4e968ec2236ce87fb970.png",
+    "static/media/right.png": "/Personal-Portfolio/static/media/right.ae095ab8927808e6fe9f.png",
+    "static/media/SkiRental.png": "/Personal-Portfolio/static/media/SkiRental.e39e3c2f276980160e06.png",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.27102945.css.map": "/Personal-Portfolio/static/css/main.27102945.css.map",
+    "main.4c30e789.js.map": "/Personal-Portfolio/static/js/main.4c30e789.js.map"
   },
   "entrypoints": [
     "static/css/main.27102945.css",
-    "static/js/main.a7f0f4f2.js"
+    "static/js/main.4c30e789.js"
   ]
 }
